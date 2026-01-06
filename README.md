@@ -1,2 +1,3 @@
 # College-website
-This is a college website.&lt;br>
+This is a college website.<br>
+Author - Sohan Maity
